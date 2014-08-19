@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FAsync/.idea/FAsync.iml" filepath="$PROJECT_DIR$/../FAsync/.idea/FAsync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Frustragram.iml" filepath="$PROJECT_DIR$/.idea/Frustragram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../em-instagram/.idea/em-instagram.iml" filepath="$PROJECT_DIR$/../em-instagram/.idea/em-instagram.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,1 @@
+rsync -rvz --progress  -e "ssh -i /Users/boris/Documents/aws/borisaka.cer"  /Users/boris/RubymineProjects/Frustragram  /Users/boris/RubymineProjects/em-instagram ubuntu@borisaka.net:/home/ubuntu/

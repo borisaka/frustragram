@@ -1,0 +1,6 @@
+h1 Welcome#index
+p Find me in app/views/welcome/index.html.slim
+
+- for m in @media
+  .img_wrap style="background-image:url(#{m.big_url})"
+=paginate @media, :theme => 'twitter-bootstrap-3'
